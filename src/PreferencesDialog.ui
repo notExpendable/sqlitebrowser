@@ -1869,7 +1869,7 @@ Can be set to 0 for disabling completion.</string>
        <item>
         <widget class="QCheckBox" name="checkSqleanExtensionAutoload">
          <property name="toolTip">
-          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Automatically load the 'nalgeon/sqlean' extension at program startup.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Automatically load the 'nalgeon/sqlean' extension at program startup. For more information about this extension, please see https://github.com/nalgeon/sqlean&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
          </property>
          <property name="text">
           <string>Automatically load the 'sqlean' extension</string>
